@@ -7,6 +7,7 @@ namespace ASS1_OOP
     internal class DeliveryCenter
     {
 
+
         private Shipment[] shipment;
 
         public DeliveryCenter()
